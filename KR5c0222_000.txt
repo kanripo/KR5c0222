@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:54:39.888346
-#+TITLE: 延陵先生集新舊服氣經
-#+PROPERTY: DZID  DZ0825
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—424 一卷 洞神部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
